@@ -1,3 +1,22 @@
+Ashtāpada (Sanskrit: having eight feet, i.e. an 8×8 squared board), the uncheckered 8×8 board served as the main board for playing chaturanga.
+
+A dice-driven backgammon-type race game played on the ashtāpada before chess was invented.
+
+Chaturanga starting position.[2] The kings do not face each other; the white king starts on e1 and the black king on d8.
+The initial position is as shown. White moves first. The objective in chaturanga, the same as modern chess, is to checkmate the opponent's Raja (king)
+
+échecs in French, Schach in German, ajedrez in Spanish /a-χe-ðɾeθ/
+
+The queen and bishop remained relatively weak until between 1475 AD and 1500 AD, in Europe, the queen's and bishop's modern moves started and spread.
+ with the exception of the rules about stalemate, which were finalized in the early 19th century.
+A poem Caïssa published in 1527 led to the chess rook being often renamed as "castle", and the modern shape of the rook chess piece;
+
+further bolstered by reliable timing mechanisms (first introduced in 1861)
+
+
+
+
+
 Chess is an "abstract strategy game" played between two players.
 
 An abstract strategy game is a strategy game, in which the theme is not important to the experience of playing. That means the game has no randomizers (such as dice), no simultaneous movement, nor hidden information.
